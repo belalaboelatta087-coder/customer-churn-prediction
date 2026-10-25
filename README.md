@@ -1,5 +1,7 @@
 # Customer Churn Prediction
 
+#live demo => https://customer-churn-prediction-c4t6haga24mq7kkxomdfja.streamlit.app/
+
 ## Project Overview
 This project uses Machine Learning to predict whether a telecommunications customer is likely to leave the company (customer churn).
 
